@@ -1,11 +1,11 @@
-# Again
+Again
 
 ---
 
 ## 歌曲信息
 
 - **歌手** Beverly
-- **附注** フルーツバスケット 1st season / 水果篮子 第一季 OP1
+- **附注** フルーツバスケット 1st season(水果篮子 第一季) OP1
 - **音乐** https://www.bilibili.com/video/av50741475
 - **谱源** http://www.bilibili.com/read/cv2495676/
 
