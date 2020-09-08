@@ -5,7 +5,7 @@
 ## 歌曲信息
 
 - **歌手** [See-Saw](https://bgm.tv/person/7461)
-- **专辑** [梶浦由記](https://bgm.tv/person/1595)
+- **专辑** [[君は僕に似ている](https://bgm.tv/subject/8932)](https://bgm.tv/person/1595)
 - **作词** [石川智晶](https://bgm.tv/person/6596)
 - **作曲** [梶浦由記](https://bgm.tv/person/1595)
 - **编曲** [梶浦由記](https://bgm.tv/person/1595)
