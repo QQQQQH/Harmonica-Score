@@ -6,7 +6,7 @@
 
 - **歌手** Beverly
 - **附注** フルーツバスケット 1st season(水果篮子 第一季) OP1
-- **音乐** https://www.bilibili.com/video/av50741475
+- **音乐** https://music.163.com/#/song?id=1357991362
 - **谱源** http://www.bilibili.com/read/cv2495676/
 
 ---
